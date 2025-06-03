@@ -41,6 +41,7 @@ pertanyaan_kuis = [
             "Lingkaranpink.png",
             
         ],
+
         "answer": "Lingkaranbirutua.png"
     },
     {
@@ -63,6 +64,15 @@ pertanyaan_kuis = [
         ],
         "answer": "belahketupatorange.png"
     },
+    {
+        "question": "Bentuk: onogiri, Warna: Cinta",
+        "choices": [
+            "Segitigahijau.png",
+            "Segitigapink.png",
+            "Lingkaranpink.png",
+            
+        ],
+        "answer": "Segitigapink.png"
 ]
 
 def tampilkan_pertanyaan(index):
